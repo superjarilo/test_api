@@ -1,17 +1,20 @@
 {
   "export": [
     {
-      "id": "RU",
+      "id": 1,
+      "ISOCode": "RU",
       "status": 200,
       "response": "Success"
     },
     {
-      "id": "AM",
+      "id": 2,
+      "ISOCode": "AM",
       "status": 200,
       "response": "Error"
     },
     {
-      "id": "KZ",
+      "id": 3,
+      "ISOCode": "KZ",
       "status": 200,
       "response": "Success"
     }
