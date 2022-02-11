@@ -1,16 +1,21 @@
 {
-  "exportRU": {
-    "status": 200,
-    "response": "Success"
-  },
-  "exportAM": {
-    "status": 200,
-    "response": "Error"
-  },
-  "exportKZ": {
-    "status": 200,
-    "response": "Success"
-  },
+  "export": [
+    {
+      "id": "RU",
+      "status": 200,
+      "response": "Success"
+    },
+    {
+      "id": "AM",
+      "status": 200,
+      "response": "Error"
+    },
+    {
+      "id": "KZ",
+      "status": 200,
+      "response": "Success"
+    }
+  ],
   "posts": [
     {
       "id": 1,
