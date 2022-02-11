@@ -1,0 +1,19 @@
+{
+  "export": [
+    {
+      "RU": {
+        "status": 200,
+        "response": "Success"
+      }
+    },
+    {
+      "BY": {
+        "status": 400,
+        "response": "Error"
+      }
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
