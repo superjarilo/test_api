@@ -1,18 +1,16 @@
 {
-  "export": [
-    {
-      "RU": {
-        "status": 200,
-        "response": "Success"
-      }
-    },
-    {
-      "BY": {
-        "status": 400,
-        "response": "Error"
-      }
-    }
-  ],
+  "exportRU": {
+    "status": 200,
+    "response": "Success"
+  },
+  "exportAM": {
+    "status": 200,
+    "response": "Error"
+  },
+  "exportKZ": {
+    "status": 200,
+    "response": "Success"
+  },
   "profile": {
     "name": "typicode"
   }
